@@ -1,0 +1,116 @@
+/* styles.css */
+
+/* General styles */
+.body {
+    -fx-background-color: #f0f0f0; /* Light background color */
+}
+
+/* Button styles */
+.button {
+    -fx-background-color: #4CAF50; /* Green background */
+    -fx-text-fill: white;          /* White text */
+    -fx-font-size: 14px;
+}
+
+/* Text field styles */
+.text-field {
+    -fx-font-size: 14px;
+}
+
+/* Cart layout styles */
+.cart-layout {
+    -fx-background-color: #ffffff; /* White background */
+    -fx-border-color: #dddddd;    /* Light gray border color */
+    -fx-border-width: 1px;
+    -fx-padding: 10px;
+    -fx-spacing: 10px;
+}
+
+/* Label styles */
+.label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #333333; /* Dark gray text */
+}
+
+/* Button Style */
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 8px 16px;
+    -fx-border-radius: 5px;
+}
+
+/* Text Field Style */
+.text-field {
+    -fx-font-size: 14px;
+    -fx-padding: 5px;
+    -fx-border-radius: 5px;
+}
+
+/* Menu Item Box Style */
+.menu-item-box {
+    -fx-background-color: #f0f0f0;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+    -fx-spacing: 5px;
+}
+
+/* Delete Button Style */
+.delete-button {
+    -fx-background-color: #ff3333;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-padding: 5px 10px;
+    -fx-border-radius: 3px;
+}
+
+/* Add to Cart Button Style */
+.add-to-cart-button {
+    -fx-background-color: #2196F3;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-padding: 5px 10px;
+    -fx-border-radius: 3px;
+}
+
+/* Checkout Button Style */
+.checkout-button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-padding: 8px 16px;
+    -fx-border-radius: 5px;
+}
+
+/* Cart Layout Style */
+.cart-layout {
+    -fx-background-color: #f0f0f0;
+    -fx-padding: 10px;
+    -fx-border-radius: 5px;
+    -fx-spacing: 5px;
+}
+
+/* Total Label Style */
+.total-label {
+    -fx-font-size: 16px;
+    -fx-font-weight: bold;
+}
+
+/* Alert Style */
+.alert {
+    -fx-background-color: #ff3333;
+    -fx-text-fill: white;
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+}
+
+.header-label {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-padding: 10px 0;
+}
